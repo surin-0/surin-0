@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=👻&nbsp;su수린rin&nbsp;👻&fontSize=50&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=🥚&nbsp;su수린rin&nbsp;🤯&fontSize=50&fontColor=ffffff&animation=twinkling)
 <br>
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 <br>
-<h3 align="center">📞 Me</h3>
+<h3 align="center">👻 Me</h3>
 
 <p align="center">
 <a href="https://www.notion.so/marblegiraffe/9fb44ced11df417daa1f426e52fbfbd0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
