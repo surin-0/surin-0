@@ -18,9 +18,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 <br>
-<h3 align="center">📞 Contact</h3>
+<h3 align="center">📞 Me</h3>
 
 <p align="center">
+<a href="https://www.notion.so/marblegiraffe/9fb44ced11df417daa1f426e52fbfbd0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Gmail_:_soooolin961205@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Naver_:_marble__giraffe@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Instagram_:_marblegiraffe-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
