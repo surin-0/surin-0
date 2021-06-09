@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=🥚&nbsp;su수린rin&nbsp;🤯&fontSize=50&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=🤯&nbsp;su수린rin&nbsp;🤯&fontSize=50&fontColor=ffffff&animation=twinkling)
 <br>
 <h3 align="center">💻 Tech Stack</h3>
 
