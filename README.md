@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=👻&nbsp;su수린rin&nbsp;👻&fontSize=50&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=👻&nbsp;su수린rin&nbsp;👻&fontSize=50&fontColor=ffffff&animation=twinkling)
 <br>
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/Instagram_:_marblegiraffe-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=timeGradient&section=footer)
