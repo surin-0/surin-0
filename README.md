@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue%2Ejs&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue-dot-js&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 <br>
